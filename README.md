@@ -109,6 +109,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions or feedback, please contact:
-- **Name**: Hassan
+- **Name**: Abdullah Ibrahim
 - **GitHub**: [Hassan-2002](https://github.com/Hassan-2002)
-- **Email**: hassan@example.com
+- **Email**: abdullah.softwaredev@gmail.com
